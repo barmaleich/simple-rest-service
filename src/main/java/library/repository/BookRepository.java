@@ -1,6 +1,6 @@
-package hello.repository;
+package library.repository;
 
-import hello.model.Book;
+import library.model.Book;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;

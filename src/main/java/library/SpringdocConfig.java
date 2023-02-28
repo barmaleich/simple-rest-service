@@ -1,4 +1,4 @@
-package hello;
+package library;
 
 
 import io.swagger.v3.oas.annotations.OpenAPIDefinition;

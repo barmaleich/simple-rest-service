@@ -1,8 +1,8 @@
-package hello.controller;
+package library.controller;
 
-import hello.model.Book;
-import hello.repository.BookRepository;
-import hello.service.BookService;
+import library.model.Book;
+import library.repository.BookRepository;
+import library.service.BookService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
